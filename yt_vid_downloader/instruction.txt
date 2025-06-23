@@ -1,0 +1,5 @@
+if you haven't installed the dependencies, request you to install them before executing the script
+
+[use this command in terminal of your os]: pip install fastapi uvicorn yt-dlp python-multipart
+[after installing run this command to open the application]: uvicorn main:app --reload
+[go to this link on web browser]: http://127.0.0.1:8000
